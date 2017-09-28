@@ -29,10 +29,10 @@ This model should hold the basic properties of the information you are trying to
 
 ## ReadMe
 - Your readme should include the following information:
-	- How long did it take you to complete this assignment?
-	- What did you struggle with? Why? How did you solve?
-	- What did you learn during this assignment?
-    - What resources did you utilize for this assingment?
+	- How long did it take you to complete this assignment? THis took me somewhere between 2 and 2.5 hours.
+	- What did you struggle with? Why? How did you solve? I struggled with all of the steps needed to have my CSS render to the page.
+	- What did you learn during this assignment? I learned that app.UseStaticFiles() solves that problem.
+    - What resources did you utilize for this assingment? classmates and Youtube lecture videos
 
 ## Rubric
 - 2pts: All three MVC components are present and properly setup
