@@ -35,7 +35,7 @@ This model should hold the basic properties of the information you are trying to
     - What resources did you utilize for this assingment?
 
 ## Rubric
-- 2pts: All three MVC components are present (build off from prev assignments)
+- 2pts: All three MVC components are present and properly setup
 - 3pts: Models created with Properites
 - 1pts Taghelpers are present and used properly
 - 2pts Intial Migration // Database properly set up
