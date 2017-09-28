@@ -54,6 +54,8 @@ namespace lab13_miya
             }
                 );
 
+            app.UseStaticFiles();
+
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");

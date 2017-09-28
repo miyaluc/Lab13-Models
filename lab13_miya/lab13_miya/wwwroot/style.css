@@ -1,0 +1,11 @@
+﻿body {
+    background-color: darkgoldenrod;
+    }
+
+hgroup {
+    border-style:groove;
+    opacity: 0.9;
+    background-color: darkcyan;
+    font: 15px bold Georgia, serif;
+}
+

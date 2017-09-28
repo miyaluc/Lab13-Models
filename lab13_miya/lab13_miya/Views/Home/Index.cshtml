@@ -1,10 +1,21 @@
-﻿@*
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
 }
-@*@Model.Class <br />
-@Model.Grade <br />
-@Model.Name <br />
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/style.css" />
+</head>
 
-@ViewBag.Class*@
+<body>
+    <hgroup>
+        <h1>Welcome to another year, Students!</h1>
+        <h4>Let's make it a good one.</h4>
+    </hgroup>
+    <a href=" http://localhost:51662/Registers">Register for Your Classes Here!</a>
+</body>
+</html>
